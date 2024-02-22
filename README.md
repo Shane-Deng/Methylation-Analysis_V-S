@@ -25,7 +25,7 @@ The project consists of two main programs and some small programs:
    
 
 ## Acknowledgments
-- We would like to express our gratitude to **Dr. Robert Aguilar** for his foundational work on the SNP analysis program, our project builds upon his original code.
+- We would like to express our gratitude to **Dr. Robert Aguilar** for his foundational work on the SNP analysis program. Our project builds upon his original code.
 - Dr. Robert Aguilar's Github Profile: https://github.com/crisprmax
 - Reference code: https://github.com/crisprmax/SNP-identifier-Python
 
