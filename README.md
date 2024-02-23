@@ -31,3 +31,5 @@ bash ~[the path to the anaconda installation pack]
 - Dr. Robert Aguilar's Github Profile: https://github.com/crisprmax
 - Reference code: https://github.com/crisprmax/SNP-identifier-Python
 
+## Created by Shane Deng and Victor Wang
+
