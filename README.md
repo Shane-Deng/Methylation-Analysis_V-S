@@ -10,10 +10,10 @@ The project consists of two main programs and some small programs:
 
 ## Language, input, and output of these programs
 - We use Python3 as the programming language.
-  1. **For unt_trimmed_bin_analysis_bam program**:
+1. **For unt_trimmed_bin_analysis_bam program**:
 - You have to download the accesstion list from NCBI (https://www.ncbi.nlm.nih.gov/sra) that contains the strings starting with "SRR" or "ERR".
 - You will get the .csv output, which is a sheet of the location of the methylation
-  2. **For machine learning program**:
+2. **For machine learning program**:
 - You have to transfer .csv files to .parquet files in order to make this program work.
 - The output of this learning program is still under construction...
   
