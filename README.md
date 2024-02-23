@@ -16,13 +16,15 @@ The project consists of two main programs and some small programs:
 2. **For machine learning program**:
 - You have to transfer .csv files to .parquet files in order to make this program work.
 - The output of this learning program is still under construction...
-  
+
 ## Dependency Installation
 **Linux is recommended for these programs to run**
 1. **Install anaconda (https://www.anaconda.com/download)**:
-2. **Run the command: bash ~{the path to the things you downloaded}**
+2. **Download the reference genome hg38 (https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.40/)**
+```bash
+bash ~{the path to the things you downloaded}
+```
 3. **Run the program dependency_installation.py**
-   
 
 ## Acknowledgments
 - We would like to express our gratitude to **Dr. Robert Aguilar** for his foundational work on the SNP analysis program. Our project builds upon his original code.
