@@ -1,7 +1,7 @@
 # Methylation_project overview
 
 ## Aim
-This project is designed to advance our understanding of methylation patterns across genomes, specifically focusing on distinguishing between normal and cancerous methylation. The primary goal is to extract methylation locations from genetic data and utilize a machine-learning model to differentiate between normal and cancerous methylation states.
+This project is designed to advance our understanding of the relationship between methylation patterns and breast cancer. The primary goal is to find some common methylation position and use it to detect early cancer.
 
 ## Components
 The project consists of two main programs and some small programs:
