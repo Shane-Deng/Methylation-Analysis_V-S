@@ -20,10 +20,10 @@ The project consists of two main programs and some small programs:
 ## Dependency Installation
 **Linux is recommended for these programs to run**
 1. **Install anaconda (https://www.anaconda.com/download)**:
-2. **Download the reference genome hg38 (https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.40/)**
 ```bash
-bash ~{the path to the things you downloaded}
+bash ~[the path to the anaconda installation pack]
 ```
+2. **Download the reference genome hg38 (https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.40/)**
 3. **Run the program dependency_installation.py**
 
 ## Acknowledgments
