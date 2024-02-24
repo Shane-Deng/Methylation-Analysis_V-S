@@ -13,7 +13,7 @@ python_packages = [
     "sendgrid"
 ]
 for package in python_packages:
-    subprocess.run(f"conda install -c conda-forge {package} -y", shell=True)
+    subprocess.run(f"pip3 install {package}")
 
 # Install external bioinformatics tools with conda install
 bioinformatics_tools = [
