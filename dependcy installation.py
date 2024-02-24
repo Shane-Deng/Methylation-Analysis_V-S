@@ -24,6 +24,6 @@ bioinformatics_tools = [
 for tool in bioinformatics_tools:
     subprocess.run(f"conda install -c bioconda {tool} -y", shell=True)
 
-print(f"Installation completed. Please use conda activate {env_name} to activate you conda environment")
+print(f"Installation completed. Please follow the steps below:\n 1. run 'conda init'\n 2. Close your terminal\n 3. run 'conda activate {env_name}")
 
 
