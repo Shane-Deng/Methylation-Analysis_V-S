@@ -21,10 +21,14 @@ The project consists of two main programs and some small programs:
 **Linux is recommended for these programs to run**
 1. **Install anaconda (https://www.anaconda.com/download)**:
 ```bash
-bash ~[the path to the anaconda installation pack]
+sudo ./Anaconda3-VERSION-linux-x86_64.sh
 ```
-2. **Download the reference genome hg38 (https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.40/)**
-3. **Run the program dependency_installation.py**
+2. **Activate the base environment using:**
+```bash
+eval "$(/path_to_your_conda_folder/bin/conda shell.bash hook)"
+```
+3. **Download the reference genome hg38 (https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.40/)**
+4. **Run the program dependency_installation.py, make sure you have already create the environment**
 
 ## Acknowledgments
 - We would like to express our gratitude to **Dr. Robert Aguilar** for his foundational work on the SNP analysis program. Our project builds upon his original code.
